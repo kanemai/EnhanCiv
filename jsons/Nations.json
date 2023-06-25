@@ -87,7 +87,7 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [9, 112, 84],
+        "outerColor": [97, 192, 37],
         "innerColor": [255,255,255],
 
 		"favouredReligion": "Taoism",
@@ -120,8 +120,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 208],
+		"outerColor": [247, 216, 3],
+		"innerColor": [183, 128, 230],
 		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
@@ -149,7 +149,7 @@
 		"neutralHello": "Hello, again.",
 		"hateHello": "Oh, it's you!",
 		"tradeRequest": "Would you be interested in a trade agreement with England?",
-		"outerColor": [109, 2, 0],
+		"outerColor": [121, 1, 2],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sun Never Sets",
@@ -752,8 +752,8 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
 
-        "outerColor": [51,25,0],
-        "innerColor": [255,255,102],
+        "outerColor": [121, 61, 3],
+        "innerColor": [234, 224, 158],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Viking Fury",
@@ -899,8 +899,8 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What is it now?",
 		"tradeRequest": "I just had the marvelous idea, and I think you'll appreciate it too.",
-		"outerColor": [205, 205, 205],
-		"innerColor": [81, 0, 137],
+		"outerColor": [181, 181, 181],
+		"innerColor": [110, 1, 205],
 		"favoredReligion": "Islam",
 		"uniqueName": "Phoenician Heritage",
 		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned",
@@ -927,8 +927,8 @@
 		"introduction": "My, isn't this a pleasant surprise - what may I call you, oh mysterious stranger? I am Theodora, beloved of Byzantium.",
 		"neutralHello": "Hello again.",
 		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
-		"outerColor": [114, 162, 233],
-		"innerColor": [61, 0, 109],
+		"outerColor": [117, 163, 243],
+		"innerColor": [56, 4, 102],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
 		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
@@ -966,8 +966,8 @@
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
 
-        "outerColor": [12,75,25],
-        "innerColor": [157,172,255],
+        "outerColor": [22, 108, 49],
+        "innerColor": [117, 163, 243],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Druidic Lore",
