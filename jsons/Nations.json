@@ -87,7 +87,7 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [97, 192, 37],
+        "outerColor": [22, 108, 49],
         "innerColor": [255,255,255],
 
 		"favouredReligion": "Taoism",
@@ -966,7 +966,7 @@
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
 
-        "outerColor": [22, 108, 49],
+        "outerColor": [4, 80, 83,],
         "innerColor": [117, 163, 243],
 
 		"favoredReligion": "Christianity",
