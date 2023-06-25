@@ -753,7 +753,7 @@
 		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
 
         "outerColor": [121, 61, 3],
-        "innerColor": [234, 224, 158],
+        "innerColor": [254, 179, 61],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Viking Fury",
