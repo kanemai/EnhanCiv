@@ -28,7 +28,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
 		"outerColor": [4, 80, 83],
-		"innerColor": [225, 255, 255],
+		"innerColor": [255, 255, 255],
 		"favoredReligion": "Islam",
 		"uniqueName": "Ingenuity",
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster"],
