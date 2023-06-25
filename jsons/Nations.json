@@ -266,7 +266,7 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Come forth, let's do business.",
 		"outerColor": [22, 108, 49],
-		"innerColor": [87, 192, 37],
+		"innerColor": [97, 192, 37],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trade Caravans",
 		"uniques": ["[+1 Gold] from each Trade Route", "Double quantity of [Oil] produced"],
