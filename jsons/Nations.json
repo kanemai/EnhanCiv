@@ -87,7 +87,7 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [3, 192, 156],
+        "outerColor": [97, 192, 37],
         "innerColor": [255,255,255],
 
 		"favouredReligion": "Taoism",
