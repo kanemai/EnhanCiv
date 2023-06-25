@@ -293,8 +293,8 @@
 		"hateHello": "Well?",
 		"tradeRequest": "Is the following trade of interest to you?",
 
-        "outerColor": [ 28,51,119],
-        "innerColor": [255,255,255],
+        "outerColor": [4, 44, 109],
+        "innerColor": [255, 255, 255],
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Manifest Destiny",
