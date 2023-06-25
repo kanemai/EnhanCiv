@@ -87,7 +87,7 @@
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-        "outerColor": [97, 192, 37],
+        "outerColor": [3, 192, 156],
         "innerColor": [255,255,255],
 
 		"favouredReligion": "Taoism",
@@ -899,7 +899,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What is it now?",
 		"tradeRequest": "I just had the marvelous idea, and I think you'll appreciate it too.",
-		"outerColor": [181, 181, 181],
+		"outerColor": [255, 255, 255],
 		"innerColor": [56, 4, 102],
 		"favoredReligion": "Islam",
 		"uniqueName": "Phoenician Heritage",
