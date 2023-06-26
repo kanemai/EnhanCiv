@@ -473,7 +473,7 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Does this trade work for you, my friend?",
 
-        "outerColor": [56, 4, 102],
+        "outerColor": [4, 80, 83],
         "innerColor": [234, 224, 158],
 
         "favoredReligion": "Christianity",
