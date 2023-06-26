@@ -59,7 +59,7 @@
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
 		"outerColor": [255, 255, 255],
-		"innerColor": [65, 141, 254],
+		"innerColor": [117, 163, 243],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Hellenic League",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
@@ -177,8 +177,8 @@
 		"hateHello": "It's you.",
 		"tradeRequest": "France offers you this exceptional proposition.",
 
-        "outerColor": [ 38, 98, 255],
-        "innerColor": [239,236,148],
+        "outerColor": [2, 80, 206],
+        "innerColor": [234, 224, 158],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ancien Régime",
@@ -325,7 +325,7 @@
 		"hateHello": "Oh, it's you...",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"outerColor": [255, 255, 255],
-		"innerColor": [184, 0, 0],
+		"innerColor": [203, 23, 24],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Bushido",
 		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
@@ -353,8 +353,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "My friend, are you interested in this arrangement?",
 
-        "outerColor": [14, 113, 4],
-        "innerColor": [255, 163, 71],
+        "outerColor": [22, 108, 49],
+        "innerColor": [254, 129, 18],
 
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Population Growth",
@@ -380,8 +380,8 @@
 		"neutralHello": "What now?",
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
-		"outerColor": [179, 178, 184],
-		"innerColor": [37, 43, 33],
+		"outerColor": [181, 181, 181],
+		"innerColor": [51, 51, 52],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Furor Teutonicus",
 		"uniques": ["When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
@@ -473,8 +473,8 @@
 		"hateHello": "Oh, it's you.",
 		"tradeRequest": "Does this trade work for you, my friend?",
 
-        "outerColor": [54,72,72],
-        "innerColor": [246,205,137],
+        "outerColor": [56, 4, 102],
+        "innerColor": [234, 224, 158],
 
         "favoredReligion": "Christianity",
 		"uniqueName": "The Great Warpath",
@@ -720,8 +720,8 @@
 		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
 		"tradeRequest": "The Incan people offer this fair trade.",
 
-        "outerColor": [255,184,33],
-        "innerColor": [3,115,86],
+        "outerColor": [254, 179, 61],
+        "innerColor": [4, 80, 83],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Great Andean Road",
