@@ -1049,7 +1049,7 @@
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Oh… Fine, okay."],
 */
-		"outerColor": [229, 118, 117],
+		"outerColor": [117, 163, 243],
 		"innerColor": [4, 80, 83],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Long Count",
