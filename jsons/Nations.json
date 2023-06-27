@@ -1049,8 +1049,8 @@
 		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
 		"hateYes": ["Oh… Fine, okay."],
 */
-		"outerColor": [117, 163, 243],
-		"innerColor": [4, 80, 83],
+		"outerColor": [134, 115, 3],
+		"innerColor": [3, 192, 156],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Long Count",
 		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
