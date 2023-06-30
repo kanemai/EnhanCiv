@@ -1091,7 +1091,7 @@
 	{
 		"name": "Hanoi",
 		"adjective": ["Hanoi"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
