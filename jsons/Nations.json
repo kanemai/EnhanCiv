@@ -1091,7 +1091,7 @@
 	{
 		"name": "Hanoi",
 		"adjective": ["Hanoi"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1473,18 +1473,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
-	},
-	{
-		"name": "Semarang",
-		"adjective": ["Semarangese"],
-		"cityStateType": "Religious",
-
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [198,255,192],
-		"cities": ["Semarang"]
 	},
 
 
